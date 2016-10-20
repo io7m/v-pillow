@@ -31,7 +31,7 @@ Mesh: pillow_low_poly_mesh
     Image: pillow_low_albedo_ao 512x256
 
 Mesh: pillow_sculpt
-  Polygons: 81920
+  Polygons: 39424
   Textures:
     Image: fabric_bump.png 1024x1024
     Image: fabric_albedo.png 1024x1024
